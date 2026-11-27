@@ -1,16 +1,21 @@
-## Hola soy Ale 👋
+## Hi, I'm Ale 👋
 
-<!--
-**AlessandraValdiviezo/AlessandraValdiviezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student at PUCP (Pontifical Catholic University of Peru). I'm interested in data analysis, econometrics and public policy.
 
-Here are some ideas to get you started:
+- 🔭 Currently: Quantitative Research Intern at Equilibrium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Research
+
+- **Undergraduate thesis:** *The impact of heat islands on acute diarrheal diseases in children*, using ENDES (Peru's Demographic and Family Health Survey) microdata and Landsat satellite imagery
+- **Revista Economica Perú:** factors associated with modern contraceptive use among Peruvian women who want no more children (ENDES 2025)
+
+### 🛠️ Tools
+
+- **Analysis:** Stata · R · Python
+- **Geospatial data:** Google Earth Engine
+- **Other:** Looker Studio · SQL (basic)
+- **Languages:** Spanish · English B2 (Cambridge FCE)
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/allessandra-alban-valdiviezo-8bab30170/)
