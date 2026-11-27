@@ -4,7 +4,7 @@ Economics student at PUCP (Pontifical Catholic University of Peru). I'm interest
 
 - 🔭 Currently: Quantitative Research Intern at Equilibrium
 
-### 🔎 Research
+### 🔎 Research🔍
 
 - **Undergraduate thesis:** *The impact of heat islands on acute diarrheal diseases in children*, using ENDES (Peru's Demographic and Family Health Survey) microdata and Landsat satellite imagery
 - **Revista Economica Perú:** factors associated with modern contraceptive use among Peruvian women who want no more children (ENDES 2025)
